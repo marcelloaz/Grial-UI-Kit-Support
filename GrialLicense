@@ -1,0 +1,7 @@
+
+
+Unhandled Exception:
+
+UXDivers.Artina.Shared.LicenseException: The appName does not match the license's.
+
+UXDivers.Artina.Shared.GrialKit.Init(this, "INTEGRAUP.Droid.GrialLicense");
